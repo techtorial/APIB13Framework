@@ -19,5 +19,9 @@ public class CommonUtils {
         return properties.getProperty(key);
     }
 
+    public void test(){
+
+    }
+
 
 }
